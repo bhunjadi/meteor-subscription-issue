@@ -8,8 +8,8 @@
     "visualize": "meteor --production --extra-packages bundle-visualizer"
   },
   "dependencies": {
-    "@babel/runtime": "^7.1.5",
-    "meteor-node-stubs": "^0.4.1",
+    "@babel/runtime": "^7.7.2",
+    "meteor-node-stubs": "^1.0.0",
     "react": "^16.11.0",
     "react-dom": "^16.11.0"
   },
